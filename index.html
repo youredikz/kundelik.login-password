@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Отправка в Discord</title>
+</head>
+<body>
+  <h1>📤 Отправить сообщение в Discord</h1>
+  <textarea id="message" placeholder="Введите сообщение..."></textarea><br>
+  <button onclick="sendMessage()">Отправить</button>
+
+  <script>
+    async function sendMessage() {
+      const message = document.getElementById("message").value;
+
+      const res = await fetch("/send", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ message })
+      });
+
+      alert(res.ok ? "✅ Отправлено!" : "❌ Ошибка");
+    }
+  </script>
+</body>
+</html>
