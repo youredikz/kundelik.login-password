@@ -1,0 +1,525 @@
+<html><head lang="ru">
+    <meta name="google" value="notranslate">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <link rel="icon" href="https://static.kundelik.kz/img/icons/favicon_Kz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon">
+        <link rel="shortcut icon" href="https://static.kundelik.kz/img/icons/favicon_Kz.ico" sizes="16x16 24x24 32x32 48x48 64x64" type="image/x-icon">
+    
+        <!-- non-retina iPhone pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/57x57.png" sizes="57x57">
+        <!-- non-retina iPad pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/72x72.png" sizes="72x72">
+        <!-- non-retina iPad iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/76x76.png" sizes="76x76">
+        <!-- retina iPhone pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/114x114.png" sizes="114x114">
+        <!-- retina iPhone iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/120x120.png" sizes="120x120">
+        <!-- retina iPad pre iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/144x144.png" sizes="144x144">
+        <!-- retina iPad iOS 7 -->
+        <link rel="apple-touch-icon" href="https://static.kundelik.kz/img/icons/favicons_Kz/apple/152x152.png" sizes="152x152">
+    
+        <!-- Windows 8 tile -->
+        <meta name="msapplication-TileImage" content="https://static.kundelik.kz/img/icons/favicons_Kz/microsoft/144x144.png">
+        <meta name="msapplication-TileColor" content="#FFFFFF">
+        <meta name="application-name" content="Kundelik.kz | Kundelik.kz сайтына кіру">
+    
+        <!-- IE11 tiles -->
+        <meta name="msapplication-square70x70logo" content="https://static.kundelik.kz/img/icons/favicons_Kz/microsoft/70x70.png">
+        <meta name="msapplication-square150x150logo" content="https://static.kundelik.kz/img/icons/favicons_Kz/microsoft/150x150.png">
+        <meta name="msapplication-wide310x150logo" content="https://static.kundelik.kz/img/icons/favicons_Kz/microsoft/310x150.png">
+        <meta name="msapplication-square310x310logo" content="https://static.kundelik.kz/img/icons/favicons_Kz/microsoft/310x310.png.png">
+    
+    
+
+    <title>Kundelik.kz | Kundelik.kz сайтына кіру</title>
+
+    
+
+            <link rel="stylesheet" href="https://static.kundelik.kz/assets/styles/main.min.ca6a1daa.css?v=ca6a1daa" media="all" type="text/css">
+        <link rel="stylesheet" href="https://static.kundelik.kz/styles/main/common.css?v=143157b6" media="all" type="text/css">
+        <link rel="stylesheet" href="https://static.kundelik.kz/blocks/blocks.css?v=dad7eae2" media="all" type="text/css">
+        <link rel="stylesheet" href="https://static.kundelik.kz/css/adaptive.css?v=068f655e" media="all" type="text/css"> 
+    <link rel="stylesheet" href="https://static.kundelik.kz/client/notifications.css?v=cd15f86a" type="text/css">
+
+    
+<script async="" src="https://mc.yandex.ru/metrika/tag.js"></script><script type="text/javascript" async="" src="https://c.zero.kz/z.js"></script><script type="text/javascript">var dnevnik = {"urls":{"domain":"kundelik.kz","taskStateUrl":"https://kundelik.kz/TaskStateHandler","moderate":null,"whiteList":["dnevnik.ru","mosreg.ru","microsoft.com","lego.com","surveymonkey.ru","surveymonkey.com","gosuslugi.ru","adfox.ru","facebook.com","twitter.com","instagram.com","vk.com","apple.com","google.com","dnevnik.ru","youtube.com","youtu.be","research.net","csdnevnik.ru","globallab.org","yaklass.ru","foxford.ru","sberbank.ru","magnit-info.ru","letovo.ru","office.com","sharepoint.com","onenote.com","office365.com","magnitznaniy.ru","magnit.ru","mail.ru","instagram.com","gismeteo.ru","fotostrana.ru","twitter.com","livejournal.com","lenta.ru","kinopoisk.ru","ria.ru","yadi.sk","booking.com","rbc.ru","mosregtest.ru","app.focusednow.io","focusednow.io","focusedlink.com","focused.kz","edu.kz","portal.kundelik.kz/zoom","lessons.kundelik.kz","portal.kundelik.kz","expert.kundelik.kz","cert.kundelik.kz","lessons.kundelik.kz","mektepmenu.kz","kundelik.kz","bonus.kundelik.kz","docs.google.com","docs.google.com/forms","Kundelik.kz","kundelik.analyticsapp","business.documentolog","documentolog.kz","forms.gle","api.whatsapp.com","whatsapp.com","web.boboapp","https://www.znanie.info/","znanie.info","kundelik.zendesk.com","zendesk.com","izicourse.kz","halykbank.kz","https://halykbank.kz","halykbank.kz","https://halykbank.kz","jusan.kz","https://jusan.kz","ekitap.kz","grant.daryn.online","daryn.online","https://grant.daryn.online","business.documentolog.com","tiktok.com","https://izicourse.kz/","https://t.me/","t.me","idaryn.kz","https://idaryn.kz","https://dmuk.edu.kz","dmuk.edu.kz","https://2gis.kz","2gis.kz","https://wa.me","wa.me","https://wa.me/message/","https://wa.me/","https://ads.adfox.ru","ads.adfox.ru","https://darmen.app/","darmen.app","https://plus.yandex.ru","plus.yandex.ru","https://plus.yandex.ru/gift","plus.yandex.ru/gift","https://plus.yandex.ru/gift","plus.yandex.ru/gift","yandex.ru","iutest.kz","ekitap.kz","testter.kz","https://intertop.kz/ru-kz/","intertop.kz/ru-kz/","intertop.kz","https://clck.ru/39CwGu","https://clck.ru","clck.ru","damubala.kz","https://hcsbk.kz","https://iutest.kz/","iutest.kz","https://lessons.kundelik.kz/courses","https://lessons.kundelik.kz","lessons.kundelik.kz/courses","lessons.kundelik.kz","https://www.kinopark.kz","www.kinopark.kz","kinopark.kz","www.troya.kz","troya.kz","hcsbk.kz","https://reg.kazchess.kz","https://legospace.kz","legospace.kz","avatariya-graduation.kz","reg.kazchess.kz","https://avatariya-graduation.kz","https://avatariya-graduation.kz/kz","avatariya-graduation.kz/kz","https://reg.kazchess.kz/","reg.kazchess.kz","https://www.sulpak.kz/kz/Article/20061/smartfoniy_nubia","www.sulpak.kz/kz/Article/20061/smartfoniy_nubia","sulpak.kz","https://activ.kz/imbapriz","activ.kz/imbapriz","activ.kz","https://airastana.com/global-en","airastana.com/global-en","https://job.airastana.com/ab-initio","job.airastana.com/ab-initio","job.airastana.com","https://wtsp.cc/77052661258","https://wtsp.cc","wtsp.cc","https://kaz.supradyn.com","kaz.supradyn.com","https://kaz.supradyn.com/kk","kaz.supradyn.com/kk","https://t.me/Influencers_course_1_bot","https://t.me","t.me","https://aicourse.kundelik.kz","aicourse.kundelik.kz","airastana.com/kaz-kk","https://airastana.com/kaz-kk/information/social-responsibility","airastana.com/kaz-kk/information/social-responsibility","https://airastana.com/kaz-ru/information/social-responsibility","airastana.com/kaz-ru/information/social-responsibility","https://kaz.supradyn.com","kaz.supradyn.com","airastana.com","https://dku.kz/ru/konsultaciya/bakalavriat","dku.kz/ru","dku.kz"],"userCounters":"https://kundelik.kz/counters","emailSettings":"https://kundelik.kz/v2/user/settings?view=email","smilesSpriteUrl":"https://static.kundelik.kz/images/sprites/emojione.sprites.svg","tinyMceBaseUrl":"https://static.kundelik.kz/assets/scripts/vendors/tinymce","gaAutoLinkUrls":null,"adblockDummyUrl":"https://static.kundelik.kz/images/banners/adblockDummies/kzDummy.jpg"},"settings":{"yandexMetrikaIds":["36220965"],"yandexMetrikaСlickmapEnabled":false,"enableAdFoxZeroPixel":true,"yandexMetrikaId":"36220965","environmentPrefix":"Kz","yandexMetrikaWebvisorEnabled":false},"fileUploadSettings":{"stateUrl":"https://content.kundelik.kz/gettaskstatus","resultUrl":"https://content.kundelik.kz/getresult","deleteFileUrl":"https://content.kundelik.kz/delete","deleteFolderUrl":"https://content.kundelik.kz/deletefolder","defaultFileSizeLimit":"2147483648"},"user":null,"auth":{"isAuthenticated":false,"updateInterval":600000,"loginUrl":"https://login.kundelik.kz/auth","masterLoginUrl":null},"visitParams":{"__RedesignAbGroup2":"groupA"},"localizationSchoolType":null,"contextRegionUrl":""};</script>
+
+            <script type="text/javascript" src="https://static.kundelik.kz/assets/scripts/modules/redesign.min.367efd8f.js?v=367efd8f"></script>
+    <script type="text/javascript" src="https://static.kundelik.kz/assets/scripts/vendors/requirejs/require-2.3.7.js?v=084c85b2"></script>
+    <script type="text/javascript">
+        require.config({
+            baseUrl: "https://static.kundelik.kz/assets/scripts/modules",
+            urlArgs: "v=642f78ac",
+        });
+    </script>
+            <script type="text/javascript" src="https://static.kundelik.kz/assets/scripts/modules/main-redesign.min.127fcc88.js?v=127fcc88"></script>
+    <script type="text/javascript" src="https://static.kundelik.kz/blocks/blocks.js?v=afa2e17d"></script>
+    <script type="text/javascript" src="https://static.kundelik.kz/javascripts/local/kk.js?v=8662f077"></script>
+
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="blocks/dropdownContainer/dropdownContainer" src="https://static.kundelik.kz/assets/scripts/modules/blocks/dropdownContainer/dropdownContainer.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="halyk-sign-in" src="https://static.kundelik.kz/assets/scripts/modules/halyk-sign-in.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="analytics/loginEsiaMetrika" src="https://static.kundelik.kz/assets/scripts/modules/analytics/loginEsiaMetrika.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="blocks/footer/footer" src="https://static.kundelik.kz/assets/scripts/modules/blocks/footer/footer.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="yandexMetrika/yandexMetrikaCounter" src="https://static.kundelik.kz/assets/scripts/modules/yandexMetrika/yandexMetrikaCounter.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="analytics/commonYaMetrika" src="https://static.kundelik.kz/assets/scripts/modules/analytics/commonYaMetrika.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="analytics/sessionUuid" src="https://static.kundelik.kz/assets/scripts/modules/analytics/sessionUuid.js?v=642f78ac"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="analytics/loginYaMetrika" src="https://static.kundelik.kz/assets/scripts/modules/analytics/loginYaMetrika.js?v=642f78ac"></script></head>
+<body class="page_adaptive">
+    <script>
+        window.environmentPrefix = "kz";
+        window.environmentPrefix = "";
+    </script>
+
+    
+
+
+
+<header class="header-anon" id="header-anon">
+
+    <div class="colored-line colored-line_kz">
+        <div class="colored-line__item colored-line__item_blue"></div>
+        <div class="colored-line__item colored-line__item_green"></div>
+        <div class="colored-line__item colored-line__item_yellow"></div>
+        <div class="colored-line__item colored-line__item_orange"></div>
+        <div class="colored-line__item colored-line__item_violet"></div>
+    </div>
+
+    <div class="header-anon__content">
+
+        <div class="header-anon__logotype" id="logo">
+            <a href="https://kundelik.kz">
+                <img src="https://static.kundelik.kz/img/logotypes/kzlogotype.png" alt="Kundelik.kz">
+            </a>
+        </div>
+
+        <div class="header-anon__menu-wrapper">
+                <div class="header-anon__menu">
+                    
+<nav class="menu">
+    <ul class="menu__layout">
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   menu__item_no-left-padding
+                   " href="https://kundelik.kz/about">Компания туралы</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   " href="https://kundelik.kz/features">Мүмкіндіктер</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   " href="https://kundelik.kz/forpartners">Серіктестерге</a>
+            </li>
+            <li class="menu__layout_unit">
+                <a class="menu__item menu__item_border
+                   
+                   
+                   menu__item_noborder menu__item_no-right-padding" href="https://kundelik.kz/support">Қолдау</a>
+            </li>
+    </ul>
+</nav>
+            </div>
+            <div class="header-anon__buttons" id="anon-buttons"><div class="header-anon__localization-button" id="localization-button">
+                        
+<div class="header-localization-select">
+    <div class="header-localization-select__info">
+        <div class="header-localization-select__info_row header-localization-select__info_row-content">Қаз</div>
+        <div class="header-localization-select__info_row header-localization-select__tumbler"></div>
+    </div>
+    
+    
+
+<div class="dropdown-container dropdown-container_font-weight-bold dropdown-container_left-position-0 dropdown-container_no-specific-last-child">
+
+<a href="https://kundelik.kz/api/localization/change?newCulture=kk-KZ&amp;currentUrl=https%3a%2f%2flogin.kundelik.kz%2flogin" title="Қазақ" class="link link_dropdown-container-link link_dropdown-container-link_selected link_ ">
+    Қазақ
+    
+</a>
+<a href="https://kundelik.kz/api/localization/change?newCulture=ru-RU&amp;currentUrl=https%3a%2f%2flogin.kundelik.kz%2flogin" title="Русский" class="link link_dropdown-container-link link_ link_ ">
+    Русский
+    
+</a>
+<a href="https://kundelik.kz/api/localization/change?newCulture=en-US&amp;currentUrl=https%3a%2f%2flogin.kundelik.kz%2flogin" title="English" class="link link_dropdown-container-link link_ link_ ">
+    English
+    
+</a></div><script>require(['DropdownContainer/DropdownContainer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22tumblerClass\x22\x3a\x22header-localization-select\x22,\x22activationClasses\x22\x3a\x5b\x22header-localization-select__info\x22,\x22dropdown-container\x22\x5d\x7d')); } });</script>
+</div>
+                    </div>
+                    
+                <div class="header-anon__button">
+                    
+<a href="https://login.kundelik.kz/login" title="Кіру" class="button button_blue button_padding-20    " onclick="" style="cursor: pointer" data-category="" data-action="" data-target="">
+    Кіру
+</a>
+                </div>
+                    <div class="header-anon__button">
+                        
+<a href="https://login.kundelik.kz/join/role" title="Қосылу" class="button button_green button_padding-20 button_margin-left-20    " onclick="" style="cursor: pointer" data-category="" data-action="" data-target="">
+    Қосылу
+</a>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+<script type="text/javascript">
+
+    var button = document.getElementById('localization-button');
+    moveLocalizationButton();
+    window.addEventListener('resize', function(event) {
+        moveLocalizationButton();
+    }, true);
+    
+    function moveLocalizationButton() {
+        if (window.innerWidth > 1200) {
+            jQuery("#localization-button").detach().prependTo('#anon-buttons');
+            button.classList.remove("localization-mobile");
+        }
+        else {
+            jQuery("#localization-button").detach().appendTo('#logo');
+            button.classList.add("localization-mobile");
+        }
+    }
+</script>
+
+
+<div class="main main_top-30 ">
+    <div class="container">
+    <div class="row">
+        <div class="col-md-24 col-xs-24">
+            
+            <div class="article-area">
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+<form class="login" method="POST">
+    <input id="exceededAttempts" name="exceededAttempts" type="hidden" value="False">
+    <input id="ReturnUrl" name="ReturnUrl" type="hidden" value="">
+    <input id="FingerprintId" name="FingerprintId" type="hidden" value="">
+    <div class="login__header login__header_kz">
+        <div class="row row_centered">
+            <div class="login__header-title col-md-12 col-xs-12">
+                <div class="login__header__text">
+                    <h1 class="h1 h1_white">Kundelik.kz сайтына кіру</h1>
+                </div>
+            </div>
+                <div class="login__header-register-wrapper col-md-12 col-xs-12">
+                    <div class="login__header__register-link">
+                        <a class="link link_white" href="/join/role">Жүйеде тіркелмегенсіз бе?</a>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="login__body">
+
+        <div class="login__body__hint login__body__hint_error-message login__body__hint_hidden">
+            <div class="message ">
+    
+</div>
+        </div>
+
+            <div class="login__body__hint login__personal-message login__personal-message_show-always">
+        <div class="login__personal-message-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27" height="27" viewBox="0 0 27 27">
+                <defs>
+                    <path id="38100e189b1e4645b6cb7ed551a2cdee" d="M96.02 190a12.6 12.6 0 0 1 9.26 3.82 12.62 12.62 0 0 1 3.82 9.26c0 3.59-1.28 6.65-3.82 9.2a12.64 12.64 0 0 1-9.26 3.82c-3.59 0-6.66-1.28-9.2-3.82a12.53 12.53 0 0 1-3.82-9.2c0-3.63 1.27-6.72 3.82-9.26a12.51 12.51 0 0 1 9.2-3.82zm0 24.97c3.27 0 6.08-1.16 8.43-3.49a11.37 11.37 0 0 0 3.52-8.4c0-3.27-1.17-6.09-3.52-8.43a11.5 11.5 0 0 0-8.43-3.52c-3.28 0-6.08 1.17-8.4 3.52a11.53 11.53 0 0 0-3.49 8.43c0 3.23 1.17 6.02 3.52 8.37a11.4 11.4 0 0 0 8.37 3.52zm3.45-4.58c.35 0 .53.2.53.59 0 .4-.18.6-.53.6h-6.84c-.36 0-.53-.2-.53-.6 0-.39.17-.59.53-.59h2.85v-9.03h-1.72c-.36 0-.53-.2-.53-.6 0-.36.17-.53.53-.53h2.26c.39 0 .59.17.59.53v9.63zm-3.99-13.55c-.31 0-.57-.11-.79-.33a1.1 1.1 0 0 1-.33-.8c0-.31.11-.57.33-.8.22-.22.48-.33.79-.33.31 0 .58.11.8.33.22.23.33.49.33.8 0 .31-.11.58-.33.8a1.1 1.1 0 0 1-.8.33z"></path>
+                </defs>
+                <g transform="translate(-83 -189)">
+                    <use xlink:href="#38100e189b1e4645b6cb7ed551a2cdee"></use>
+                </g>
+            </svg>
+        </div>
+                <div class="login__body__notification-block">
+                    <p>Жүйеге кіру үшін, тек қана өзіңіздің парақшаңызды пайдаланыңыз.</p><p>Кіру батырмасын басып, сіз <a href="https://kundelik.kz/agreements/terms" target="_blank">пайдаланушы келісімді</a> оқып, келісетініңізді растайсыз.</p>
+                </div>
+            </div>
+
+
+            <div class="login__error_message_mobile">
+            </div>
+
+        <div class="login__content login__content_mixed">
+
+        <div class="row row_centered login__form_shown">
+            <div class="login-body__field-wrapper col-md-12 col-xs-12">
+                <label class="label label_input-label label_bold">
+                    <strong>Пайдаланушы аты</strong>
+                    <input name="login" class="input input__field input_full-width input_with-label-above input_line-height-28px login__body__input_login" type="text" autocomplete="on" data-test-id="login-field">
+                </label>
+            </div>
+            <div class="login__body-hint-wrapper col-md-12 col-xs-12">
+
+
+                <div class="login__body__hint login__body__hint_login login__body__hint_hidden">
+                    <div class="yellow-hint yellow-hint_right ">
+    <div class="yellow-hint__wrapper">
+        Пайдаланушы атын енгізіңіз.
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="row row_centered login__form_shown">
+            <div class="login-body__field-wrapper col-md-12 col-xs-12">
+                <label class="label label_input-label label_bold">
+                    <strong>Құпиясөз</strong>
+                    <div id="pass-visibility-button" class="show-pass-button"></div>
+                    <input name="password" id="password-field" class="input input__field input_full-width input_with-label-above input_line-height-28px login__body__input_password input_type-password" type="text" oncopy="return false" autocomplete="off" data-test-id="password-field">
+                </label>
+            </div>
+            <div class="login__body-hint-wrapper col-md-12 col-xs-12">
+
+
+                <div class="login__body__hint login__body__hint_password login__body__hint_hidden">
+                    <div class="yellow-hint yellow-hint_right ">
+    <div class="yellow-hint__wrapper">
+        Құпиясөзді енгізіңіз.
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="login__body__captcha login__body__captcha_hidden login__form_shown">
+            <div class="row row_centered">
+                <div class="login__captcha-wrapper col-ms-12 col-xs-12">
+                    
+<div class="captcha" name="captcha" id="id-2d7dc9900a174ce08fd224cb0b2040d6">
+    <div class="row">
+        <div class="col-ms-24 col-xs-24">
+            <label class="label label_bold label_input-label label_display-block label_font-size-14 label_  ">Суреттегі таңбаларды енгізіңіз</label>
+
+<input class="input input__field input_display-inline-block input_width-180 input_captcha-validation input_bottom-20 " id="id-0e7efd67820e432a8d4432af366bf098" title="Суреттегі таңбаларды енгізіңіз" name="Captcha.Input" placeholder="">            <img alt="captcha image" class="captcha__image" src="https://login.kundelik.kz/captcha/true/573678d4-7e25-437b-8c17-4e41a65c5acb">
+            <button type="button" class="captcha__button"></button>
+            <input name="Captcha.Id" class="captcha__value" type="hidden" value="573678d4-7e25-437b-8c17-4e41a65c5acb">
+        </div>
+    </div>
+</div><script>require(['Captcha/Captcha'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22imagePart\x22\x3a\x22https\x3a\x2f\x2flogin.kundelik.kz\x2fcaptcha\x2ftrue\x2f\x22,\x22id\x22\x3a\x22id-2d7dc9900a174ce08fd224cb0b2040d6\x22\x7d')); } });</script>
+                </div>
+                <div class="login__captcha-error-wrapper col-md-12 col-xs-12">
+                    <div class="login__body__captcha__error">
+                        <div class="yellow-hint yellow-hint_to-left-20 yellow-hint_right yellow-hint_captcha-hint yellow-hint_hidden ">
+    <div class="yellow-hint__wrapper">
+        
+    </div>
+</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            var togglePassButton = document.getElementById("pass-visibility-button");
+            var passInput = document.getElementById("password-field");
+            togglePassButton.addEventListener("click", togglePasswordVisibility);  
+            function togglePasswordVisibility() {  
+              if (passInput.type === 'password' || passInput.classList.contains("input_type-password")) {
+                  passInput.type = 'text';
+                  passInput.classList.remove("input_type-password");
+                  togglePassButton.className = 'hide-pass-button';
+              } else {
+                  passInput.type = 'password';
+                  passInput.classList.add("input_type-password");
+                  togglePassButton.className = 'show-pass-button';
+              }          
+            }
+        </script>  
+        <div class="row row_centered">
+            <div class="login-body__field-wrapper col-md-6 col-xs-6 login__form_shown">
+                <input type="submit" value="Кіру" class="login__submit button button_light-green button_top-10 button_full-width" data-test-id="login-button">
+            </div>
+            <div class="login__esia_button col-md-7 col-xs-7 login__esia_button_new_s">
+                <div id="halyk-sing-in" class="login__sso-button login__pubservices-link_login">
+                    Halyk ID-мен кіру
+                    <div class="login__sso-button_iconed"></div>
+                </div>
+                
+<script>
+    require(['halyk-sign-in'], function(component) {
+        new component ({
+            clientId: 'kundelik',
+            redirectUrl: 'https://login.kundelik.kz/login/accountmapping/halykid/authorization',
+            scope: ['halykid_user_ext2'],
+            state: '0b63b58e-0cd1-4d8a-a1fa-b20359ee3614',
+        });
+    });
+</script>
+            </div>
+            
+            <div class="login-body__field-wrapper login-body__field-wrapper_show-form-btn login__form_shown">
+                <button type="button" class="button button_show-form-btn">Войти через Kundelik.kz</button>
+            </div>
+        </div>
+        </div>
+    </div>
+    <div class="login__footer-wrapper row">
+        <div class="col-md-24 col-xs-24 login__form_shown">
+            <div class="login__footer">
+                <div class="login__footer__help">
+                    <div class="message__help">
+                            <span class="message__help_wide">
+                                <p class="paragraph_help">Пайдаланушы аты немесе құпиясөзді ұмыттыңыз ба? <a class="link" href="/recovery">Қатынасты қалпына келтіріңіз</a>.</p>
+                            </span>
+                            <span class="message__help_narrow">
+                                <p class="paragraph_help"><a class="link" href="/recovery">Пайдаланушы аты немесе құпиясөзді ұмыттыңыз ба?</a></p>
+                            </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</form>
+
+
+<script>require(['Login/Login'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('\x7b\x22hasErrors\x22\x3afalse,\x22firstErrorText\x22\x3anull,\x22login\x22\x3a\x7b\x22value\x22\x3anull\x7d,\x22password\x22\x3a\x7b\x22value\x22\x3anull\x7d,\x22exceededAttempts\x22\x3afalse,\x22isEmptyLogin\x22\x3afalse,\x22isEmptyPassword\x22\x3afalse,\x22isWrongCaptcha\x22\x3afalse,\x22captchaWrapperId\x22\x3a\x22id-2d7dc9900a174ce08fd224cb0b2040d6\x22\x7d')); } });</script>
+</div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+<footer class="footer">
+    <div class="footer__menu">
+        <div>
+            <div class="footer__menu__links">
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">Компания туралы</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/about" class="footer__menu__links__item">Біз туралы</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/news" class="footer__menu__links__item">Жаңалықтар</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/contacts" class="footer__menu__links__item">Контактілер</a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">Мүмкіндіктер</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/features#/teachers" class="footer__menu__links__item">Мұғалімдерге</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/features#/parents" class="footer__menu__links__item">Ата-аналарға</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/features#/students" class="footer__menu__links__item">Оқушыларға</a>
+                                    </li>
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/features#/governments" class="footer__menu__links__item">Мемлекеттік мекемелерге</a>
+                                    </li>
+                            </ul>
+                    </div>
+                    <div class="footer__column_25">
+                            <div class="footer__menu__links__title">Серіктестерге</div>
+                            <ul class="footer__menu__links__layout">
+                                    <li class="footer__menu__links__layout_item">
+                                        <a href="https://kundelik.kz/forpartners" class="footer__menu__links__item">Серіктестік бағдарламалар</a>
+                                    </li>
+                            </ul>
+                    </div>
+                <div class="footer__column_25">
+                    <div class="footer__menu__links__last-column-wrapper">
+                            <div class="footer__menu__links__title footer__menu__links__title_no-margin-top">
+                                Қолдау
+                            </div>
+                            <div class="footer__menu__links__support">
+                                    <a href="https://kundelik.zendesk.com" class="footer__menu__links__support__link">Қолдау қызметінің порталы</a>
+                            </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div>
+                <div class="footer__menu__buttons">
+                        <div class="footer__column_25">
+                            
+<div class="sociallinks">
+        <a class="sociallinks__button sociallinks__button_facebook " href="https://www.facebook.com/kundelik/" target="_blank" title="Kundelik.kz Facebook-те"></a>
+        <a class="sociallinks__button sociallinks__button_instagram " href="https://www.instagram.com/kundelikkz/" target="_blank" title="Kundelik.kz Instagram-те"></a>
+        <a class="sociallinks__button sociallinks__button_youtube " href="https://www.youtube.com/KundelikKz" target="_blank" title="Kundelik.kz Youtube-те"></a>
+</div>
+                        </div>
+                        <div class="footer__column_25 footer__join">
+                            
+<a href="https://login.kundelik.kz/join/role" title="Қосылу" class="button button_green button_full-width    " onclick="" style="cursor: pointer" data-category="" data-action="" data-target="">
+    Қосылу
+</a>
+                        </div>
+                </div>
+            </div>
+    </div>
+    <div class="footer__copyright">
+        <div class="footer__copyright-content">
+            <!-- ZERO.kz -->
+<span id="_zero_68956" style=""><a href="https://zero.kz/?s=68956" target="_blank"><img border="0px" width="88" height="31" alt="ZERO.kz" title="ZERO.kz: Слева место в казахстанском рейтинге,
+справа количество казахстанских просмотров в сутки,
+количество казахстанских посетителей в сутки,
+всех посетителей сейчас на сайте" src="https://c.zero.kz/z.png?u=68956&amp;t=1&amp;cc=aefa4b1a41d163&amp;s=6837534387b64&amp;sh=1&amp;slt=0&amp;d=0&amp;wd=1920&amp;hg=1080&amp;cd=24&amp;w=1905&amp;h=945&amp;ln=ru-ru&amp;je=0&amp;cs=UTF-8&amp;ce=1&amp;du=https%3A%2F%2Flogin.kundelik.kz%2Flogin&amp;rf=https%3A%2F%2Fportal.kundelik.kz%2F&amp;tz=-360&amp;dt=Kundelik.kz%20%7C%20Kundelik.kz%20%D1%81%D0%B0%D0%B9%D1%82%D1%8B%D0%BD%D0%B0%20%D0%BA%D1%96%D1%80%D1%83&amp;11.08203427627199"></a></span>
+<script type="text/javascript"><!--
+    var _zero_kz_ = _zero_kz_ || [];
+    _zero_kz_.push(["id", 68956]);
+    _zero_kz_.push(["type", 1]);
+
+    (function () {
+        var a = document.getElementsByTagName("script")[0],
+            s = document.createElement("script");
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https:" : "http:")
+            + "//c.zero.kz/z.js";
+        a.parentNode.insertBefore(s, a);
+    })(); //-->
+</script>
+<!-- End ZERO.kz -->
+            <div class="footer__copyright-item">
+                <div class="footer__copyright__terms">
+
+                        <a href="https://kundelik.kz/agreements/terms" class="footer__copyright__terms__link">Пайдаланушылық келісім</a>
+                </div>
+            </div>
+            <div class="footer__copyright-item">
+                <div class="footer__copyright__label">© 2025 «Kүнделік (Kundelik)» ЖШС</div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+<script>require(['Footer/Footer'], function () { for(var i = 0, l = arguments.length; i < l; i += 1) { arguments[i](JSON.parse('null')); } });</script>
+
+
+    
+<script type="text/javascript">
+    require(['yandexMetrika/yandexMetrikaCounter']);
+</script>
+
+    <script type="text/javascript">
+        require(['analytics/commonYaMetrika']);
+    </script>
+
+<noscript>
+    <div>
+            <img src="//mc.yandex.ru/watch/36220965" style="position: absolute; left: -9999px;" alt="" />
+    </div>
+</noscript>
+    
+
+
+
+</body></html>
